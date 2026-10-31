@@ -4,20 +4,22 @@
 
 Flipper helps you see consumer AI subscription usage allowances and reset times at a glance. Its floating gauges can run in the Chrome browser and, with the optional Windows application, over desktop windows.
 
-> **Release status:** This repository is being prepared as the public download location. No Windows installer is approved for public release yet.
+> **Release status:** Flipper 0.5.0 for Windows is available on the [releases page](https://github.com/smo82-dev/getFlipper/releases). The installer is unsigned, so Windows may show a warning before it runs.
+
+**Try it first:** the [interactive demo](demo/) lets you add, flip and move Flippers in your browser, no install needed.
 
 ## Downloads
 
-- **Windows:** [Flipper releases](https://github.com/smo82-dev/Token/releases) — installers will be available here after owner approval.
+- **Windows:** [Flipper releases](https://github.com/smo82-dev/getFlipper/releases) — download the installer and `SHA256SUMS.txt` from the latest release.
 - **Chrome:** [Usage Flipper on the Chrome Web Store](https://chromewebstore.google.com/detail/usage-flipper/ibccpnfnbkhmodjgndlgfnahmiaongkk) — the published browser version may not yet have desktop connection support.
 
 Only download assets attached to a clearly identified GitHub Release. Avoid unrelated repositories and unofficial installers.
 
 ## About this repository
 
-This is the **public distribution and documentation repository**, temporarily named Token. Product development and private application source remain in a separate private repository. Source code, credentials, signing keys, internal test logs and account data must not be published here.
+This is the **public distribution and documentation repository** (formerly named Token). Product development and private application source remain in a separate private repository. Source code, credentials, signing keys, internal test logs and account data must not be published here.
 
-Future approved releases should contain a versioned installer, SHA-256 checksums and release notes. The release process is documented in [Distribution and release policy](docs/DISTRIBUTION.md).
+Future approved releases should contain a versioned installer, SHA-256 checksums and release notes.
 
 ## Privacy and support
 
