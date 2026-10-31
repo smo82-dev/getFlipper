@@ -1,0 +1,10 @@
+// Cloudflare deploy settings for getflipper.app: the demo folder, served as
+// static files (no Worker code). "previews" lets pull requests get preview links.
+{
+  "name": "getflipper",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./demo"
+  },
+  "previews": {}
+}
