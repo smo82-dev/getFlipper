@@ -1,0 +1,8 @@
+// Cloudflare deploy settings for the interactive demo (static files only, no code).
+{
+  "name": "getflipper",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./demo"
+  }
+}
